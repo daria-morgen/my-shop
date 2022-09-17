@@ -1,4 +1,5 @@
 # my-shop
+npm install --save axios vue-axios
 
 ## Project setup
 ```
